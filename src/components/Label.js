@@ -6,6 +6,7 @@ type P = {
   bold?: boolean,
   children?: any,
 };
+
 const Label = ({ bold, children }: P) => (
   <Text
     style={{

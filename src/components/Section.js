@@ -7,6 +7,7 @@ type P = {
   title: string,
   children?: any,
 };
+
 const Section = ({ title, children }: P) => (
   <View style={{ marginBottom: 96, flexDirection: 'row', flexWrap: 'wrap'}}>
     <View style={{ width: 200, marginTop: 40 }}>

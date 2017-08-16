@@ -20,11 +20,9 @@ export const borderRadii = [0, 2, 4, 6, 8, 10, 12, 20, 40, 100];
 export const fontFamilies = [
   'Helvetica',
   'Georgia',
-  'Open Sans',
   'Proxima Nova',
-  'Ampersand',
-  'Lobster 1.3',
-  'Lato',
+  'Marker Felt',
+  'Tofino Personal'
 ];
 
 export const fontWeights = [
